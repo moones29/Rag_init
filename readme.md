@@ -94,9 +94,6 @@ print(f"Namespace activo: '{ns}' · vector_count={vc}")
 > En consultas multilingües, añade sinónimos en la pregunta (por ejemplo: "conclusión", "conclusiones", "conclusion") para mejorar el recall.
 
 ## Seguridad
-- Mantén tus claves en `.env` y evita exponerlas en notebooks.
-- Si compartiste claves, obviamente debes rotarlas, por si las dudas lo pongo, nunca expongan el `.env`.
-
 > [!CAUTION]
 > No subas `.env` al repositorio ni compartas claves en issues/PRs/notebooks. Evita incluir credenciales en capturas o logs.
 
